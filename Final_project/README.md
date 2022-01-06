@@ -1,4 +1,4 @@
-# Omdena_solar_radiation_app
+# Omdena solar radiation app
 Web application developed using Streamlit to predict solar radiations.
 
 This is the final project of the Omdena **MLOps for AI Engineers and Data Scientists**.
