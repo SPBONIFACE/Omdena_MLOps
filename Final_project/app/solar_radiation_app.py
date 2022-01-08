@@ -18,7 +18,7 @@ import lightgbm as lgb
 st.write("""
 # Solar Prediction App
 
-The current application was developped as part of the Omdena ***MLOps for AI Engineers and Data scientists*** course.
+The current application was developed as part of the Omdena ***MLOps for AI Engineers and Data scientists*** course.
 This app predicts solar radiation in Boulogne-Billancourt (greater Paris) based on solar and weather data.
 
 Data was retrieved from [Solcast](https://solcast.com/).
