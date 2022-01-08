@@ -23,7 +23,7 @@ This app predicts solar radiation in Boulogne-Billancourt (greater Paris) based 
 
 Data was retrieved for [Solcast](https://solcast.com/).
 
-To predict solar radiation please, input values on the left handside.
+To predict solar radiation, please input values on the left handside.
 """)
 st.write("")
 st.write("")
