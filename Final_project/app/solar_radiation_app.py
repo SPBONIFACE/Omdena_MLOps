@@ -21,7 +21,7 @@ st.write("""
 The current application was developped as part of the Omdena ***MLOps for AI Engineers and Data scientists*** course.
 This app predicts solar radiation in Boulogne-Billancourt (greater Paris) based on solar and weather data.
 
-Data was retrieved for [Solcast](https://solcast.com/).
+Data was retrieved from [Solcast](https://solcast.com/).
 
 To predict solar radiation, please input values on the left handside.
 """)
