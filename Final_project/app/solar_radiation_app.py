@@ -29,7 +29,7 @@ st.write("")
 st.write("")
 
 st.sidebar.header('User Input Features')
-selected_models = st.sidebar.radio('Model',['Linear Regression','Random Forest','Light GBM'])
+selected_models = st.sidebar.radio('Please select model',['Linear Regression','Random Forest','Light GBM'])
 
 
 pipeline_lr ='model_lgb.pkl'
